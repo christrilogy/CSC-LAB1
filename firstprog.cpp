@@ -1,5 +1,5 @@
 //This is the first prgram that just writes out a simple message
-//Christina Morgan
+//Christian Morgan
 
 #include <iostream>                             // needed to perform C++ I/O
 using namespace std;
