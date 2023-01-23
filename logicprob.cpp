@@ -10,6 +10,13 @@ using namespace std;
 int main ()
 
 {
+	cout<<"----------------------"<<endl;
+	cout<<"Christian Morgan"<<endl;
+  	cout<<"Computer Science 1"<<endl;
+  	cout << "Orange County Community College" << endl;
+  	cout<<"lab1"<< endl;
+  	cout<<"January 20, 2023"<<endl;
+  	cout<<"----------------------"<<endl;
 
 	float firstNumber;
 	float secondNumber;
